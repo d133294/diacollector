@@ -1,0 +1,28 @@
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\ClassLibrary.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\ClassLibrary.pdb
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\Demonbuddy.exe
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\GreyMagic.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\IronPython.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\RemoteASM.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\Udis86Net.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\RemoteASMNative.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\obj\Debug\ClassLibrary.dll
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\obj\Debug\ClassLibrary.pdb
+C:\Users\Michael\Desktop\DemonBuddy\Plugins\DiaCollector\obj\Debug\DiaCollector 2.4.2.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\obj\Debug\DiaCollector 2.4.2.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\obj\Debug\ClassLibrary.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\obj\Debug\ClassLibrary.pdb
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\ClassLibrary.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\ClassLibrary.pdb
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\Demonbuddy.exe
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\GreyMagic.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\Microsoft.Scripting.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\IronPython.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\Udis86Net.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\MIKE\Desktop\DB 1\Plugins\DiaCollector\bin\Debug\Microsoft.Scripting.Metadata.dll
