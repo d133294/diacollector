@@ -1,0 +1,2 @@
+E:\ItemService\ItemServiceHost\bin\Debug\ConsoleApplication.exe.config
+E:\ItemService\ItemServiceHost\obj\x86\Debug\ITEM SERVICE HOST.csprojResolveAssemblyReference.cache

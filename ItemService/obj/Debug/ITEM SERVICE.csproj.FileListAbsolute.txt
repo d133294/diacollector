@@ -1,0 +1,15 @@
+E:\ItemService\ItemService\obj\Debug\ITEM SERVICE.csprojResolveAssemblyReference.cache
+E:\ItemService\ItemService\bin\Debug\ClassLibrary.dll.config
+E:\ItemService\ItemService\bin\Debug\ClassLibrary.dll
+E:\ItemService\ItemService\bin\Debug\ClassLibrary.pdb
+E:\ItemService\ItemService\bin\Debug\MySql.Data.dll
+E:\ItemService\ItemService\bin\Debug\Demonbuddy.exe
+E:\ItemService\ItemService\bin\Debug\GreyMagic.dll
+E:\ItemService\ItemService\bin\Debug\Microsoft.Scripting.dll
+E:\ItemService\ItemService\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ItemService\ItemService\bin\Debug\IronPython.dll
+E:\ItemService\ItemService\bin\Debug\Udis86Net.dll
+E:\ItemService\ItemService\bin\Debug\Microsoft.Dynamic.dll
+E:\ItemService\ItemService\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\ItemService\ItemService\obj\Debug\ClassLibrary.dll
+E:\ItemService\ItemService\obj\Debug\ClassLibrary.pdb
